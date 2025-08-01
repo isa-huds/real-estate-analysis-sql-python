@@ -4,7 +4,7 @@ This project simulates the day-to-day responsibilities of a data analyst at a re
 
 ## 🔍 Project Overview
 
-The goal is to assess portfolio performance across several KPIs, including rent trends, expenses, occupancy, leasing funnel conversions, and market benchmarking. All data was simulated using Python's `Faker` library to reflect realistic scenarios.
+The goal is to assess portfolio performance across several KPIs, including rent trends, expenses, occupancy, leasing funnel conversions, and market benchmarking. All data was simulated using Python's `Faker` library to reflect realistic scenarios. Learning project, utilizing AI assissted programming.
 
 ## 📁 Datasets
 
