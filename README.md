@@ -1,10 +1,10 @@
 # Multifamily Real Estate Analytics Project
 
-This project simulates the day-to-day responsibilities of a data analyst at a real estate investment firm. It includes data generation, cleaning, exploratory analysis, visualization, and report creation using Python and Excel.
+This project simulates the day-to-day responsibilities of a data analyst at a real estate investment firm. It includes data generation, cleaning, exploratory analysis, visualization, and report creation using Python and Excel. This is a learning project that utilizes AI-assisted programming.
 
 ## 🔍 Project Overview
 
-The goal is to assess portfolio performance across several KPIs, including rent trends, expenses, occupancy, leasing funnel conversions, and market benchmarking. All data was simulated using Python's `Faker` library to reflect realistic scenarios. Learning project, utilizing AI assissted programming.
+The goal is to assess portfolio performance across several KPIs, including rent trends, expenses, occupancy, leasing funnel conversions, and market benchmarking. All data was simulated using Python's `Faker` library to reflect realistic scenarios.
 
 ## 📁 Datasets
 
