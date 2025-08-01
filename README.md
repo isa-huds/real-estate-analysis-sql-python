@@ -48,7 +48,3 @@ Summary reports were exported to Excel and can be found in the `/reports` folder
 
 Isabella Hudson  
 [LinkedIn](https://www.linkedin.com/in/isabella-hudson) | [GitHub](https://github.com/isa-huds)
-
----
-
-Let me know if you’d like a lighter or more technical tone — or want to host your notebook on a portfolio site!
